@@ -1,0 +1,57 @@
+
+/*clearfix*/
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix {display: inline-block;}  /* for IE/Mac */
+
+/*<!--[if IE]>
+<style type="text/css">*/
+.clearfix {
+    zoom: 1;     /* triggers hasLayout */
+    display: block;     /* resets display for IE/Win */
+}
+/*</style>
+  <![endif]-->*/
+
+
+
+/*透明*/
+.opacity{
+    filter:alpha(opacity=80);   /* old IE */
+    filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=80,FinishOpacity=15, Style=3, StartX=0, FinishX=100, StartY=0,FinishY=16); /*supported by current IE*/
+    -moz-opacity:0.7;          /* Moz + FF */
+    opacity:0.7;               /* 支持新版瀏覽器 */
+}
+/*Rotating an image or text – transform*/
+.rotate{
+  /* for firefox, safari, chrome, and any other gecko/webkit browser */
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+
+  /* for ie */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+  /* opera */
+  -o-transform: rotate(30deg);
+
+}
+
+
+/*Flipping an image – transform*/
+img.flip {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
+.box-shadow{
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7) inset;
+}
