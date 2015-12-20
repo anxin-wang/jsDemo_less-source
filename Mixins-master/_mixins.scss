@@ -26,7 +26,7 @@
  * ============================================= */
 @mixin border-box() {
     @include prefix(border-sizing, border-box);
-} 
+}
 
 /* ROUND BORDERS
  * ============================================= */
@@ -42,16 +42,16 @@
 /* SHADOW MIXINS - up to 6 shadow declarations for each style
  * ============================================= */
  @mixin box-shadow($offset: 1px, $spread: 2px, $color: #999999) {
-  -webkit-box-shadow: 0px $offset $spread $color; 
-  -khtml-box-shadow: 0px $offset $spread $color; 
+  -webkit-box-shadow: 0px $offset $spread $color;
+  -khtml-box-shadow: 0px $offset $spread $color;
   -moz-box-shadow: 0px $offset $spread $color;
-  -ms-box-shadow: 0px $offset $spread $color; 
-  -o-box-shadow: 0px $offset $spread $color; 
+  -ms-box-shadow: 0px $offset $spread $color;
+  -o-box-shadow: 0px $offset $spread $color;
   box-shadow: 0px $offset $spread $color;
 }
 
 @mixin no-box-shadow {
-  -webkit-appearance: none; 
+  -webkit-appearance: none;
   -webkit-box-shadow: none;
   -khtml-box-shadow: none;
   -moz-box-shadow: none;
@@ -61,15 +61,13 @@
 }
 
 
-
-
 /* GRADIENTS
  * ============================================= */
 @mixin linear-gradient($start: white, $end: #cccccc) {
-   background-color: $start; 
-   //background-image: url(images/fallback-gradient.png); 
+   background-color: $start;
+   //background-image: url(images/fallback-gradient.png);
    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from($start), to($end));
-   background-image: -webkit-linear-gradient(top, $start, $end); 
+   background-image: -webkit-linear-gradient(top, $start, $end);
    background-image:    -moz-linear-gradient(top, $start, $end);
    background-image:     -ms-linear-gradient(top, $start, $end);
    background-image:      -o-linear-gradient(top, $start, $end);
@@ -79,31 +77,31 @@
 @mixin radial-gradient($r1: 0, $r2: 200, $start: white, $end: #cccccc, $m1: 0%, $m2: 100%) {
   background: $end;
   background: -moz-radial-gradient(center 45deg, circle closest-side, $start $m1, $end $m2);
-  background: -webkit-gradient(radial, center center, $r1, center center, $r2, from($start), to($end)); 
+  background: -webkit-gradient(radial, center center, $r1, center center, $r2, from($start), to($end));
 }
 
 @mixin inner_shadow($x: 1px, $y: 1px, $z: 3px, $color: black) {
   box-shadow: inset $x $y $z $color;
   -moz-box-shadow: inset $x $y $z $color;
-  -webkit-box-shadow: inset $x $y $z $color; 
-  -o-box-shadow: inset $x $y $z $color; 
-  -ms-box-shadow: inset $x $y $z $color; 
+  -webkit-box-shadow: inset $x $y $z $color;
+  -o-box-shadow: inset $x $y $z $color;
+  -ms-box-shadow: inset $x $y $z $color;
 }
 
 @mixin double_inner_shadow($x: 0px, $y: 1px, $z: 0px, $color: rgba(255, 255, 255, 0.25), $x2: 0px, $y2: 1px, $z2: 0px, $color2: rgba(255, 255, 255, 0.5)) {
   box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset;
   -moz-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset;
-  -webkit-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset; 
-  -o-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset; 
-  -ms-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset; 
+  -webkit-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset;
+  -o-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset;
+  -ms-box-shadow: $x $y $z $color inset, $x2 $y2 $z2 $color2 inset;
 }
 
 @mixin super_shadow($x: 0px, $y: 1px, $z: 0px, $color: rgba(255, 255, 255, 0.25), $x2: 0px, $y2: 1px, $z2: 0px, $color2: rgba(255, 255, 255, 0.5)) {
   box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2;
   -moz-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2;
-  -webkit-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2; 
-  -o-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2; 
-  -ms-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2; 
+  -webkit-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2;
+  -o-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2;
+  -ms-box-shadow: inset $x $y $z $color, $x2 $y2 $z2 $color2;
 }
 
 /* TRANSITIONS
@@ -157,7 +155,7 @@
   -o-animation: $name $time $count alternate ease-in-out $delay;
   animation: $name $time $count alternate ease-in-out $delay;
 }
-  
+
   //-webkit-animation-name: $name
   //-webkit-animation-duration: $time
   //-webkit-animation-iteration-count: $count //Can ben 'infinite' or '1, 2, 3' etc.
