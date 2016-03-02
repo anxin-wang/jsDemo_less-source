@@ -2,261 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97c4cde7-0b36-4d4d-8c0a-64c6a7eb9987" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/animation.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/box-shadow.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/box-shadow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/box-shadow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/box-sizing.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/box-sizing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/box-sizing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/color.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/special/debug.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/font.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/font.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/form.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/gradient.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/image-wrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/input.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/link-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/special/metro-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/placeholder.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/placement.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/special/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/reflect.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/retina.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/text-overflow.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/style/text-overflow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css_snippet/不理解的.less" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\build\index.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\build\package.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\css-framework\common.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\css-framework\var.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\css_snippet\my.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\css_snippet\snippet.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\css_snippet\some_snippet.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\less_study\test-extend.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\icomoon.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\icomoon.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\icomoon.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\icomoon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\icomoon.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-light-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-thin-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-thin-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\font\roboto-thin-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\reset.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\style.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\style\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\style\variables.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\title.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\project-less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="E:\workspace\jsDemo_less-source\veryless-master\src\2.0\shortcut\index.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_snippet/mixins.less" afterPath="$PROJECT_DIR$/css_snippet/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mixins-master/README.md" afterPath="$PROJECT_DIR$/Mixins-master/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\.gitignore" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/.gitignore" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\.travis.yml" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/.travis.yml" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\CHANGELOG.md" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/CHANGELOG.md" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\CONTRIBUTING.md" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\LICENSE" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/LICENSE" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\Makefile" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/Makefile" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\README.md" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/README.md" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\component.json" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/component.json" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\composer.json" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/composer.json" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\css\bootstrap-responsive.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/css/bootstrap-responsive.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\css\bootstrap.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/css/bootstrap.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\css\docs.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/css/docs.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\apple-touch-icon-114-precomposed.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\apple-touch-icon-144-precomposed.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\apple-touch-icon-57-precomposed.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\apple-touch-icon-72-precomposed.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\favicon.ico" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/favicon.ico" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\ico\favicon.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/ico/favicon.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bootstrap-docs-readme.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bootstrap-docs-readme.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bootstrap-mdo-sfmoma-01.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bootstrap-mdo-sfmoma-01.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bootstrap-mdo-sfmoma-02.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bootstrap-mdo-sfmoma-02.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bootstrap-mdo-sfmoma-03.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bootstrap-mdo-sfmoma-03.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bs-docs-bootstrap-features.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bs-docs-bootstrap-features.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bs-docs-masthead-pattern.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bs-docs-masthead-pattern.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bs-docs-responsive-illustrations.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bs-docs-responsive-illustrations.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\bs-docs-twitter-github.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/bs-docs-twitter-github.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\8020select.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/8020select.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\adoptahydrant.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/adoptahydrant.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\breakingnews.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/breakingnews.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\fleetio.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/fleetio.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\gathercontent.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/gathercontent.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\jshint.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/jshint.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\kippt.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/kippt.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\example-sites\soundready.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/example-sites/soundready.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-carousel.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-carousel.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-fluid.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-fluid.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-justified-nav.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-justified-nav.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-marketing-narrow.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-marketing-narrow.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-marketing.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-marketing.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-signin.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-signin.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-starter.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-starter.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\bootstrap-example-sticky-footer.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/bootstrap-example-sticky-footer.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\browser-icon-chrome.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/browser-icon-chrome.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\browser-icon-firefox.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/browser-icon-firefox.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\browser-icon-safari.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/browser-icon-safari.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\slide-01.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/slide-01.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\slide-02.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/slide-02.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\examples\slide-03.jpg" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/examples/slide-03.jpg" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\grid-baseline-20px.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/grid-baseline-20px.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\less-logo-large.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/less-logo-large.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\img\responsive-illustrations.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/img/responsive-illustrations.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\README.md" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/README.md" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\application.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/application.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-affix.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-affix.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-alert.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-alert.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-button.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-button.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-carousel.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-carousel.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-collapse.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-collapse.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-dropdown.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-modal.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-modal.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-popover.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-popover.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-scrollspy.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-tab.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-tab.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-tooltip.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-tooltip.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-transition.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-transition.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap-typeahead.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap-typeahead.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\google-code-prettify\prettify.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/google-code-prettify/prettify.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\google-code-prettify\prettify.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/google-code-prettify/prettify.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\holder\holder.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/holder/holder.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\html5shiv.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/html5shiv.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\assets\js\jquery.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/assets/js/jquery.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\base-css.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/base-css.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\components.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/components.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\customize.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/customize.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\carousel.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/carousel.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\fluid.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/fluid.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\hero.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/hero.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\justified-nav.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/justified-nav.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\marketing-narrow.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/marketing-narrow.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\signin.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/signin.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\starter-template.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/starter-template.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\sticky-footer-navbar.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/sticky-footer-navbar.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\examples\sticky-footer.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/examples/sticky-footer.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\extend.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/extend.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\getting-started.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/getting-started.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\index.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/index.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\javascript.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/javascript.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\scaffolding.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/scaffolding.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\layout.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/layout.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\base-css.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/base-css.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\components.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/components.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\customize.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/customize.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\extend.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/extend.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\getting-started.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/getting-started.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\index.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/index.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\javascript.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/javascript.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\docs\templates\pages\scaffolding.mustache" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/docs/templates/pages/scaffolding.mustache" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\img\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/img/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\img\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/img/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\.jshintrc" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/.jshintrc" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-affix.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-affix.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-alert.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-alert.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-button.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-button.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-carousel.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-carousel.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-collapse.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-collapse.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-dropdown.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-modal.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-modal.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-popover.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-popover.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-scrollspy.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-tab.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-tab.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-tooltip.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-tooltip.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-transition.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-transition.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\bootstrap-typeahead.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/bootstrap-typeahead.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\index.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/index.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\phantom.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/phantom.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\server.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/server.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-affix.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-affix.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-alert.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-alert.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-button.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-button.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-carousel.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-carousel.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-collapse.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-collapse.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-dropdown.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-modal.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-modal.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-phantom.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-phantom.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-popover.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-popover.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-scrollspy.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-tab.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-tab.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-tooltip.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-tooltip.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-transition.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-transition.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\unit\bootstrap-typeahead.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/unit/bootstrap-typeahead.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\vendor\jquery.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/vendor/jquery.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\vendor\qunit.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/vendor/qunit.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\js\tests\vendor\qunit.js" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/js/tests/vendor/qunit.js" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\accordion.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/accordion.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\alerts.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/alerts.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\bootstrap.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/bootstrap.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\breadcrumbs.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\button-groups.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/button-groups.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\buttons.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/buttons.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\carousel.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/carousel.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\close.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/close.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\code.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/code.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\component-animations.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/component-animations.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\dropdowns.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/dropdowns.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\forms.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/forms.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\grid.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/grid.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\hero-unit.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/hero-unit.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\labels-badges.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/labels-badges.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\layouts.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/layouts.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\media.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/media.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\mixins.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/mixins.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\modals.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/modals.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\navbar.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/navbar.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\navs.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/navs.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\pager.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/pager.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\pagination.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/pagination.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\popovers.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/popovers.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\progress-bars.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/progress-bars.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\reset.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/reset.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive-1200px-min.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive-1200px-min.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive-767px-max.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive-767px-max.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive-768px-979px.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive-768px-979px.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive-navbar.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive-navbar.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive-utilities.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\responsive.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/responsive.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\scaffolding.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/scaffolding.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\sprites.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/sprites.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tables.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tables.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\buttons.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/buttons.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\css-tests.css" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/css-tests.css" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\css-tests.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/css-tests.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\forms-responsive.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/forms-responsive.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\forms.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/forms.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\navbar-fixed-top.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/navbar-fixed-top.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\navbar-static-top.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/navbar-static-top.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tests\navbar.html" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tests/navbar.html" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\thumbnails.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/thumbnails.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\tooltip.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/tooltip.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\type.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/type.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\utilities.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/utilities.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\variables.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/variables.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\less\wells.less" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/less/wells.less" />
-      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\bootstrap-master\package.json" afterPath="$PROJECT_DIR$/bootstrap-2.3.2/package.json" />
+      <change type="MOVED" beforePath="E:\workspace\jsDemo_less-source\less_study\test-extend.less" afterPath="$PROJECT_DIR$/less_study/test.less" />
     </list>
     <ignored path="jsDemo_less-source.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -276,18 +24,7 @@
     <favorites_list name="jsDemo_less-source" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="title.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/less_study/title.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6232687">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -352,6 +89,8 @@
         <option value="$PROJECT_DIR$/css-framework/common.less" />
         <option value="$PROJECT_DIR$/css_snippet/font.less" />
         <option value="$PROJECT_DIR$/project-less/style.less" />
+        <option value="$PROJECT_DIR$/Mixins-master/README.md" />
+        <option value="$PROJECT_DIR$/less_study/test.less" />
       </list>
     </option>
   </component>
@@ -456,7 +195,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mixins-master" />
+              <option name="myItemId" value="less_study" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,6 +210,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="less_study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -582,7 +325,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25583145" sideWeight="0.28641975" order="2" side_tool="true" content_ui="tabs" />
@@ -647,13 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9545455">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less_study/test-extend.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32649255">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -743,13 +479,6 @@
         <state vertical-scroll-proportion="0.1516035">
           <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mixins-master/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.174927">
-          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -989,6 +718,41 @@
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mixins-master/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.9168973">
+          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mixins-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.133515">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less_study/style/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less_study/test.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6176472">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less_study/title.less">
