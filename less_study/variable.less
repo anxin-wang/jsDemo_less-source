@@ -78,7 +78,7 @@ body {
 @a: 9%;
 
 
-相当于
+//相当于
 .lazy-eval-scope {
   width: @var;
   @a: 9%;
@@ -88,7 +88,7 @@ body {
 @a: 100%;//这个不起作用，因为作用域是@a:9%优先
 
 
-编译出来
+//编译出来
 .lazy-eval-scope {
   width: 9%;
 }
@@ -105,7 +105,7 @@ body {
   }
   one: @var;
 }
-编译成:
+//编译成:
 .class {
   one: 1;
 }

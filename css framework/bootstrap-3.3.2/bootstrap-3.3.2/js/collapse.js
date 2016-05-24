@@ -173,7 +173,9 @@
       var options = $.extend({}, Collapse.DEFAULTS, $this.data(), typeof option == 'object' && option)
 
       if (!data && options.toggle && option == 'show') options.toggle = false
+
       if (!data) $this.data('bs.collapse', (data = new Collapse(this, options)))
+
       if (typeof option == 'string') data[option]()
     })
   }

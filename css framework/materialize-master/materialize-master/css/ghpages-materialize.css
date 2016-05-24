@@ -5535,7 +5535,8 @@ ul.tabs li.tab {
   -ms-transform-origin: 50% 10%;
   -o-transform-origin: 50% 10%;
   transform-origin: 50% 10%;
-  will-change: transform, opacity; }
+  will-change: transform, opacity;
+}
 
 .btn, .btn-large, .btn-flat {
   display: inline-block;
@@ -5649,11 +5650,11 @@ ul.tabs li.tab {
 
 /*!
  * Waves v0.5.3
- * http://fian.my.id/Waves 
- * 
- * Copyright 2014 Alfiana E. Sibuea and other contributors 
- * Released under the MIT license 
- * https://github.com/fians/Waves/blob/master/LICENSE 
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+ * https://github.com/fians/Waves/blob/master/LICENSE
  */
 .waves-effect {
   position: relative;
