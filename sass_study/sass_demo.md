@@ -1,6 +1,7 @@
-#Sass语法
---------
-### 例子一 
+# Sass语法
+
+
+## **例子一** 
 
 ```
 @mixin box-shadow($shadows...) {
@@ -36,7 +37,7 @@
 
 
 
-### 例子二 
+## **例子二** 
 
 ```
 @mixin colors($text, $background, $border) {
@@ -67,7 +68,7 @@ $value-map: (text: #00ff00, background: #0000ff, border: #ff0000);
 }
 ```
 
-**编译成**
+编译成
 
 ```
 .primary {
@@ -83,7 +84,7 @@ $value-map: (text: #00ff00, background: #0000ff, border: #ff0000);
 }
 ```
 
-### 例子三
+## **例子三**
 
 ```
 @mixin wrapped-stylish-mixin($args...) {
@@ -98,7 +99,7 @@ $value-map: (text: #00ff00, background: #0000ff, border: #ff0000);
 }
 ```
 
-### 例子四：内容块参数
+## **例子四：内容块参数**
 
 ```
 @mixin apply-to-ie6-only {
@@ -113,7 +114,7 @@ $value-map: (text: #00ff00, background: #0000ff, border: #ff0000);
   }
 }
 ```
-**编译成**
+编译成
 
 ```
 * html #logo {
@@ -121,7 +122,7 @@ $value-map: (text: #00ff00, background: #0000ff, border: #ff0000);
 }
 ```
 
-### 例子五：内容块参数
+## **例子五：内容块参数**
 
 ```
 $color: white;
@@ -138,7 +139,7 @@ $color: white;
 }
 ```
 
-**编译成**
+编译成
 
 
 
@@ -150,7 +151,7 @@ $color: white;
 }
 ```
 
-### 例子六：内容块参数
+## **例子六：内容块参数**
 
 ```
 #sidebar {
@@ -164,7 +165,7 @@ $color: white;
 
 
 
-### @import #
+## **例子七: @import**
 
 引入多个scss文件
 
